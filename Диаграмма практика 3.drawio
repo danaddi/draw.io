@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Страница — 1" id="zsDnniPJbcQgPiBrN4qN">
-    <mxGraphModel>
+    <mxGraphModel dx="788" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-2" value="Пользователь" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-3" value="Мероприятие" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-4" value="Бронирование" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-5" value="Меню" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-6" value="Подарочная карта" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-7" value="Заказ" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-9" value="Обрабатывает заказы" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-10" value="Обрабатывает запросы в службу поддержки" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-11" value="Взаимодействие с пользователем" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="580" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-12" value="Отправка подтверждений" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="750" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-13" value="Управляет бронированием" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.051;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2Mri3YZFGpVahvEp1Xdc-2" target="2Mri3YZFGpVahvEp1Xdc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mri3YZFGpVahvEp1Xdc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.041;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2Mri3YZFGpVahvEp1Xdc-4" target="2Mri3YZFGpVahvEp1Xdc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
