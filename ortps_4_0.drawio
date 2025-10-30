@@ -45,7 +45,13 @@
         <mxCell id="BKL7hSzqMID5r5h3rCaM-17" value="Управление корректурой" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14" y="224" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BKL7hSzqMID5r5h3rCaM-18" value="Управление версткой" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-46" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-18" target="BKL7hSzqMID5r5h3rCaM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-47" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-18" target="BKL7hSzqMID5r5h3rCaM-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-18" value="Управление макетом" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="26" y="1205" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BKL7hSzqMID5r5h3rCaM-20" value="Стандарты качества" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -107,13 +113,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BKL7hSzqMID5r5h3rCaM-41" value="Стандарты качества" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="69" y="1360" width="80" height="80" as="geometry" />
+          <mxGeometry x="73" y="1344" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BKL7hSzqMID5r5h3rCaM-42" value="Подготовленный макет" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-49" y="1354" width="80" height="80" as="geometry" />
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-42" value="Макет от редактора" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BKL7hSzqMID5r5h3rCaM-43" value="Задание на верстку" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="1289" width="80" height="80" as="geometry" />
+          <mxGeometry x="157" y="1269" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BKL7hSzqMID5r5h3rCaM-44" value="" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BKL7hSzqMID5r5h3rCaM-41" source="BKL7hSzqMID5r5h3rCaM-18">
           <mxGeometry x="-1" relative="1" as="geometry">
