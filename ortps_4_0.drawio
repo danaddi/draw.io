@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="Dmy3EzZyg0OEUsTDQze_">
-    <mxGraphModel>
+    <mxGraphModel dx="1497" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-1" value="Управление проектами" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-63" y="404" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-2" value="Портал редактора" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="201" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-3" value="Интерфейс руководителя" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="492" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-4" value="Заявка на публикацию" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-192" y="528" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-5" value="Информация о проекте" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-6" value="Назначенные ресурсы(ответственный, срок исполнения)" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="524" width="91" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-8" target="BKL7hSzqMID5r5h3rCaM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-8" value="Редактор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="211" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-9" target="BKL7hSzqMID5r5h3rCaM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-9" value="Верстальщик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="217" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-13" target="BKL7hSzqMID5r5h3rCaM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-13" value="Руководитель проектов" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="608" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-15" value="Интерфейс верстальщика" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="217" width="100" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
