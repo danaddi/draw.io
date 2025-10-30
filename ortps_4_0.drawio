@@ -134,23 +134,11 @@
         <mxCell id="BKL7hSzqMID5r5h3rCaM-48" value="Руководитель проектов" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-345" y="1583" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BKL7hSzqMID5r5h3rCaM-57" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-51" target="BKL7hSzqMID5r5h3rCaM-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BKL7hSzqMID5r5h3rCaM-58" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-51" target="BKL7hSzqMID5r5h3rCaM-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BKL7hSzqMID5r5h3rCaM-51" value="Интерфейс руководителя" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1579" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BKL7hSzqMID5r5h3rCaM-64" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-55" target="BKL7hSzqMID5r5h3rCaM-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BKL7hSzqMID5r5h3rCaM-65" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-55" target="BKL7hSzqMID5r5h3rCaM-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BKL7hSzqMID5r5h3rCaM-55" value="Управление публикацией" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-225" y="1686" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BKL7hSzqMID5r5h3rCaM-66" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-56" target="BKL7hSzqMID5r5h3rCaM-61">
           <mxGeometry relative="1" as="geometry" />
@@ -161,17 +149,38 @@
         <mxCell id="BKL7hSzqMID5r5h3rCaM-56" value="Управление согласованием" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-85" y="1606" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BKL7hSzqMID5r5h3rCaM-59" value="Документ выпуска" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="1786" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="BKL7hSzqMID5r5h3rCaM-60" value="Документ готовности" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="26" y="1653" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BKL7hSzqMID5r5h3rCaM-61" value="Макет" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1753" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BKL7hSzqMID5r5h3rCaM-62" value="Готовое издание" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-323" y="1745" width="80" height="80" as="geometry" />
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-68" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-69" target="BKL7hSzqMID5r5h3rCaM-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-69" value="Руководитель проектов" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="1913" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-70" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-71" target="BKL7hSzqMID5r5h3rCaM-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-71" value="Интерфейс руководителя" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="1909" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-72" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-74" target="BKL7hSzqMID5r5h3rCaM-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-73" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BKL7hSzqMID5r5h3rCaM-74" target="BKL7hSzqMID5r5h3rCaM-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-74" value="Управление публикацией" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="1920" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-75" value="Документ выпуска" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="2047" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BKL7hSzqMID5r5h3rCaM-76" value="Готовое издание" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="2045" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
