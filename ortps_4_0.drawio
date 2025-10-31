@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="Dmy3EzZyg0OEUsTDQze_">
-    <mxGraphModel dx="1497" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2137" dy="1517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,10 +244,10 @@
         <mxCell id="hmrP-TAmWbnBBcYWX02s-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-13" target="hmrP-TAmWbnBBcYWX02s-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-13" target="hmrP-TAmWbnBBcYWX02s-20">
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.934;exitY=0.821;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-13" target="hmrP-TAmWbnBBcYWX02s-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.088;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.871;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-13" target="hmrP-TAmWbnBBcYWX02s-26">
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.088;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.757;exitY=0.937;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-13" target="hmrP-TAmWbnBBcYWX02s-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1006.5888154454651" y="-181.36030730039533" as="targetPoint" />
           </mxGeometry>
@@ -277,22 +277,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-20" value="Назначить ответственных" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="986.5" y="-107" width="70" height="80" as="geometry" />
+          <mxGeometry x="995" y="-197" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-22" target="hmrP-TAmWbnBBcYWX02s-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-22" value="Назначить сроки" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1106" y="-107" width="70" height="80" as="geometry" />
+          <mxGeometry x="1109" y="-197" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-23" value="Ответственные за проект" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="-107" width="80" height="80" as="geometry" />
+          <mxGeometry x="1210" y="-197" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-74" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-26" target="hmrP-TAmWbnBBcYWX02s-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-26" value="Подписать документ о готовности проекта к работе" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="986.5" y="-218" width="103" height="98" as="geometry" />
+          <mxGeometry x="972.5" y="-105" width="103" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-75" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-28" target="hmrP-TAmWbnBBcYWX02s-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-28" value="Подписать документ о выпуске проекта" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="935" y="-3" width="70" height="80" as="geometry" />
+          <mxGeometry x="945" y="23" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-30" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.962;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-28" target="hmrP-TAmWbnBBcYWX02s-18">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -405,6 +411,15 @@
             <mxPoint x="1103" y="483" as="sourcePoint" />
             <mxPoint x="1169" y="497" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-72" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.963;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-26" target="hmrP-TAmWbnBBcYWX02s-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1193" y="-26" as="sourcePoint" />
+            <mxPoint x="1622" y="-159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-73" value="Документы" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="-76" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
