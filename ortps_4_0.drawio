@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="Dmy3EzZyg0OEUsTDQze_">
-    <mxGraphModel dx="1442" dy="1070" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1558" dy="1144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,7 +345,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-50" value="Проверить корректность автопроверки" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="995" y="601" width="91" height="80" as="geometry" />
+          <mxGeometry x="1092" y="601" width="91" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-52" target="hmrP-TAmWbnBBcYWX02s-55">
           <mxGeometry relative="1" as="geometry" />
@@ -353,34 +353,34 @@
         <mxCell id="hmrP-TAmWbnBBcYWX02s-52" value="Верстальщик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="753" y="611" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-55" target="hmrP-TAmWbnBBcYWX02s-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-54" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.871;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-55" target="hmrP-TAmWbnBBcYWX02s-60">
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-54" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.871;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-55" target="hmrP-TAmWbnBBcYWX02s-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1003" y="726" as="targetPoint" />
+            <mxPoint x="1007.3821350080257" y="718.9715617642703" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-55" target="hmrP-TAmWbnBBcYWX02s-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-55" value="Окно верстальщика" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="857" y="601" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-56" value="Провести внутреннюю вычитку" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1113" y="601" width="70" height="80" as="geometry" />
+          <mxGeometry x="1210" y="601" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-58" target="hmrP-TAmWbnBBcYWX02s-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-58" value="Зафиксировать макет" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1096" y="702" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-60" target="hmrP-TAmWbnBBcYWX02s-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-60" value="Проверить соответствие стандартам" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="702" width="70" height="80" as="geometry" />
+          <mxGeometry x="984" y="694" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-61" value="Статусы проектов" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1214" y="702" width="80" height="80" as="geometry" />
+          <mxGeometry x="1123" y="694" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-62" target="hmrP-TAmWbnBBcYWX02s-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-62" value="Подготовить задание на верстку" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="989" y="601" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
