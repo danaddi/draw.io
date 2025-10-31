@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="Dmy3EzZyg0OEUsTDQze_">
-    <mxGraphModel dx="2137" dy="1517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="1070" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
         <mxCell id="hmrP-TAmWbnBBcYWX02s-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-15" target="hmrP-TAmWbnBBcYWX02s-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-15" value="Проверить полноту" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-15" value="Проверить полноту данных" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1106" y="-309" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-17" target="hmrP-TAmWbnBBcYWX02s-18">
@@ -276,13 +276,13 @@
         <mxCell id="hmrP-TAmWbnBBcYWX02s-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-20" target="hmrP-TAmWbnBBcYWX02s-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-20" value="Назначить ответственных" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-20" value="Назначить ответственных за проект" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="-197" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-22" target="hmrP-TAmWbnBBcYWX02s-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-22" value="Назначить сроки" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-22" value="Назначить сроки проекта" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1109" y="-197" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-23" value="Ответственные за проект" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -309,7 +309,7 @@
         <mxCell id="hmrP-TAmWbnBBcYWX02s-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-32" target="hmrP-TAmWbnBBcYWX02s-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-32" value="Провести литературное редактирование" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-32" value="Провести литературное редактирование макета" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="259" width="91" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-34" target="hmrP-TAmWbnBBcYWX02s-37">
@@ -332,7 +332,7 @@
         <mxCell id="hmrP-TAmWbnBBcYWX02s-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-39" target="hmrP-TAmWbnBBcYWX02s-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-39" value="Провести корректуру" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-39" value="Провести корректуру макета" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1113" y="259" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-44" target="hmrP-TAmWbnBBcYWX02s-47">
@@ -344,7 +344,7 @@
         <mxCell id="hmrP-TAmWbnBBcYWX02s-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hmrP-TAmWbnBBcYWX02s-45" target="hmrP-TAmWbnBBcYWX02s-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmrP-TAmWbnBBcYWX02s-45" value="Проверить соответствие стандартам" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hmrP-TAmWbnBBcYWX02s-45" value="Проверить макет на соответствие стандартам" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1001" y="360" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hmrP-TAmWbnBBcYWX02s-47" value="Статусы проектов" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
