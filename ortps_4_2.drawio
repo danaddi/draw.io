@@ -650,7 +650,7 @@
             <mxPoint x="903" y="2540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XVg9VGHAfo2VBgrPnLEn-176" value="Данные проекта" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XVg9VGHAfo2VBgrPnLEn-175">
+        <mxCell id="XVg9VGHAfo2VBgrPnLEn-176" value="Техническое задание" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XVg9VGHAfo2VBgrPnLEn-175">
           <mxGeometry x="0.2123" relative="1" as="geometry">
             <mxPoint x="19" y="-12" as="offset" />
           </mxGeometry>
@@ -710,7 +710,7 @@
             <mxPoint x="653" y="2560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XVg9VGHAfo2VBgrPnLEn-188" value="ПередатьПроект()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XVg9VGHAfo2VBgrPnLEn-187">
+        <mxCell id="XVg9VGHAfo2VBgrPnLEn-188" value="ПередатьЗадание()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XVg9VGHAfo2VBgrPnLEn-187">
           <mxGeometry x="0.2123" relative="1" as="geometry">
             <mxPoint x="5" y="-20" as="offset" />
           </mxGeometry>
