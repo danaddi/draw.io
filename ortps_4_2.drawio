@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XVg9VGHAfo2VBgrPnLEn-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="XVg9VGHAfo2VBgrPnLEn-2" value="Руководитель проектов" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XVg9VGHAfo2VBgrPnLEn-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XVg9VGHAfo2VBgrPnLEn-3" value="Контроллер проектов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XVg9VGHAfo2VBgrPnLEn-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XVg9VGHAfo2VBgrPnLEn-5" value="Информационная система" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XVg9VGHAfo2VBgrPnLEn-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XVg9VGHAfo2VBgrPnLEn-6" value="База данных" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
