@@ -129,8 +129,10 @@
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="O34pvOhxhGGw-Wm7yHhn-4" source="O34pvOhxhGGw-Wm7yHhn-47" target="O34pvOhxhGGw-Wm7yHhn-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O34pvOhxhGGw-Wm7yHhn-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O34pvOhxhGGw-Wm7yHhn-4" source="O34pvOhxhGGw-Wm7yHhn-47" target="O34pvOhxhGGw-Wm7yHhn-51">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="O34pvOhxhGGw-Wm7yHhn-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O34pvOhxhGGw-Wm7yHhn-4" source="O34pvOhxhGGw-Wm7yHhn-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="1180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-53" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O34pvOhxhGGw-Wm7yHhn-52">
           <mxGeometry x="-0.2165" y="-1" relative="1" as="geometry">
@@ -143,7 +145,7 @@
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-50" value="Нет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-4">
           <mxGeometry x="140" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O34pvOhxhGGw-Wm7yHhn-51" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-4">
+        <mxCell id="O34pvOhxhGGw-Wm7yHhn-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-4">
           <mxGeometry x="40" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
