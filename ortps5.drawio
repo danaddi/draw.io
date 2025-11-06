@@ -145,7 +145,7 @@
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-50" value="Нет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-4">
           <mxGeometry x="140" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O34pvOhxhGGw-Wm7yHhn-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-4">
+        <mxCell id="O34pvOhxhGGw-Wm7yHhn-54" value="Установить статус проекта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-4">
           <mxGeometry x="40" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
