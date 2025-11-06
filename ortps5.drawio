@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="nJECNmyE6h5oPz_ud0hY">
-    <mxGraphModel dx="1226" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,16 +102,22 @@
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-31" value="Проверить качество&lt;br&gt;макета" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-3">
           <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O34pvOhxhGGw-Wm7yHhn-36" value="Передать макет верстальщику" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-3">
+        <mxCell id="O34pvOhxhGGw-Wm7yHhn-36" value="Установить статус проекта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-3">
           <mxGeometry x="40" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-4" value="Верстальщик" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="200" height="1600" as="geometry" />
         </mxCell>
+        <mxCell id="O34pvOhxhGGw-Wm7yHhn-39" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="O34pvOhxhGGw-Wm7yHhn-4">
+          <mxGeometry x="40" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="110" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O34pvOhxhGGw-Wm7yHhn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O34pvOhxhGGw-Wm7yHhn-18" target="O34pvOhxhGGw-Wm7yHhn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O34pvOhxhGGw-Wm7yHhn-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O34pvOhxhGGw-Wm7yHhn-36" target="O34pvOhxhGGw-Wm7yHhn-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
