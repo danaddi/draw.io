@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="TNNwHs7KOMBeyTKd3s2n">
-    <mxGraphModel dx="992" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         <mxCell id="h4rY_DyNIJXyqHzBzEI--13" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=4;rotation=-180;flipV=0;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--2">
           <mxGeometry x="430" y="335" width="16" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h4rY_DyNIJXyqHzBzEI--14" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;http.exe&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--2">
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--14" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;database.dll&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--2">
           <mxGeometry x="350" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VS3DaOPs1u_RX-3bg6O--2" source="h4rY_DyNIJXyqHzBzEI--18" target="h4rY_DyNIJXyqHzBzEI--3">
