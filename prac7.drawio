@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VS3DaOPs1u_RX-3bg6O--1" value="Клиенты" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VS3DaOPs1u_RX-3bg6O--1" value="Клиенты" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="120" width="200" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="VS3DaOPs1u_RX-3bg6O--3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--1">
-          <mxGeometry x="35" y="55" width="130" height="90" as="geometry" />
+        <mxCell id="VS3DaOPs1u_RX-3bg6O--3" value="&amp;lt;&amp;lt;web-browser&amp;gt;&amp;gt;&lt;div&gt;Руководитель&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="VS3DaOPs1u_RX-3bg6O--1" vertex="1">
+          <mxGeometry x="35" y="40" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VS3DaOPs1u_RX-3bg6O--2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="120" width="500" height="420" as="geometry" />
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--1" value="&amp;lt;&amp;lt;web-browser&amp;gt;&amp;gt;&lt;div&gt;Редактор&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--1">
+          <mxGeometry x="35" y="170" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--2" value="&amp;lt;&amp;lt;web-browser&amp;gt;&amp;gt;&lt;div&gt;Верстальщик&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--1">
+          <mxGeometry x="35" y="300" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VS3DaOPs1u_RX-3bg6O--2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="120" width="500" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
