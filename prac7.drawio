@@ -17,7 +17,7 @@
           <mxGeometry x="35" y="300" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VS3DaOPs1u_RX-3bg6O--2" value="Серверы" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="120" width="500" height="430" as="geometry" />
+          <mxGeometry x="340" y="120" width="500" height="430" as="geometry" />
         </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--3" value="&amp;lt;&amp;lt;processor&amp;gt;&amp;gt;&lt;div&gt;Сервер приложения&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--2">
           <mxGeometry x="30" y="170" width="140" height="90" as="geometry" />
