@@ -22,6 +22,9 @@
         <mxCell id="h4rY_DyNIJXyqHzBzEI--3" value="&amp;lt;&amp;lt;processor&amp;gt;&amp;gt;&lt;div&gt;Сервер приложения&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--2">
           <mxGeometry x="30" y="170" width="140" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--7" value="&amp;lt;&amp;lt;processor&amp;gt;&amp;gt;&lt;div&gt;Сервер бд&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--2">
+          <mxGeometry x="310" y="170" width="140" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=130;exitDy=55;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VS3DaOPs1u_RX-3bg6O--3" target="h4rY_DyNIJXyqHzBzEI--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
