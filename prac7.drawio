@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="TNNwHs7KOMBeyTKd3s2n">
-    <mxGraphModel dx="1042" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VS3DaOPs1u_RX-3bg6O--1" value="Клиенты" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="120" width="200" height="430" as="geometry" />
+          <mxGeometry x="40" y="120" width="200" height="430" as="geometry" />
         </mxCell>
         <mxCell id="VS3DaOPs1u_RX-3bg6O--3" value="&amp;lt;&amp;lt;desktop-app&amp;gt;&amp;gt;&lt;div&gt;Руководитель&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="VS3DaOPs1u_RX-3bg6O--1" vertex="1">
           <mxGeometry x="35" y="40" width="130" height="90" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="35" y="300" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VS3DaOPs1u_RX-3bg6O--2" value="Серверы" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="120" width="500" height="430" as="geometry" />
+          <mxGeometry x="270" y="120" width="490" height="430" as="geometry" />
         </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--3" value="&amp;lt;&amp;lt;processor&amp;gt;&amp;gt;&lt;div&gt;Сервер приложения&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="VS3DaOPs1u_RX-3bg6O--2">
           <mxGeometry x="30" y="170" width="140" height="90" as="geometry" />
@@ -66,7 +66,7 @@
         <mxCell id="h4rY_DyNIJXyqHzBzEI--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=130;exitDy=55;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="h4rY_DyNIJXyqHzBzEI--1" target="h4rY_DyNIJXyqHzBzEI--3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="235" y="325" />
+              <mxPoint x="195" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
