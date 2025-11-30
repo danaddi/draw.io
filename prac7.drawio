@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="TNNwHs7KOMBeyTKd3s2n">
-    <mxGraphModel dx="359" dy="231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="548" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -436,6 +436,15 @@
         </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--123" value="IAcessControl" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="754" y="1230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--125" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="h4rY_DyNIJXyqHzBzEI--124" target="h4rY_DyNIJXyqHzBzEI--104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--124" value="" style="ellipse;" vertex="1" parent="1">
+          <mxGeometry x="773" y="1298" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--126" value="IEncryption" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767" y="1310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
