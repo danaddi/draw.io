@@ -269,6 +269,12 @@
         <mxCell id="h4rY_DyNIJXyqHzBzEI--80" value="IMaket" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="1296" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--82" value="IProject" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1196" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--83" value="IStatus" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1086" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
