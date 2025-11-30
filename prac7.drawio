@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="TNNwHs7KOMBeyTKd3s2n">
-    <mxGraphModel dx="1097" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="409" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,12 +350,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--106" value="«datastore»&lt;br&gt;&lt;b&gt;БД PublishStudio&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1110" width="180" height="90" as="geometry" />
+          <mxGeometry x="1063" y="1050" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--107" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="h4rY_DyNIJXyqHzBzEI--106">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="h4rY_DyNIJXyqHzBzEI--109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1063" y="1104" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="1104" />
+              <mxPoint x="1050" y="1104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--109" value="" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="1094" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--110" value="" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=6;dashed=1;dashPattern=8 8;" edge="1" parent="1" target="h4rY_DyNIJXyqHzBzEI--109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="1104" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--111" value="JDBC" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="999" y="1070" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
