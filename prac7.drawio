@@ -185,12 +185,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="h4rY_DyNIJXyqHzBzEI--51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1100.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--51" value="«component»&lt;br&gt;&lt;b&gt;Макет&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="543" y="1260" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--52" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="h4rY_DyNIJXyqHzBzEI--51">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="h4rY_DyNIJXyqHzBzEI--56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1100.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--56" value="«component»&lt;br&gt;&lt;b&gt;Договор&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
