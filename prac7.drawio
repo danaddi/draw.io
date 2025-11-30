@@ -341,6 +341,22 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--104" value="«infrastructure»&lt;br&gt;&lt;b&gt;Безопасность&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1220" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--105" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="h4rY_DyNIJXyqHzBzEI--104">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--106" value="«datastore»&lt;br&gt;&lt;b&gt;БД PublishStudio&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1110" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--107" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="h4rY_DyNIJXyqHzBzEI--106">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
