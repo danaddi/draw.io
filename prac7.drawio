@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Страница — 1" id="TNNwHs7KOMBeyTKd3s2n">
-    <mxGraphModel dx="274" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="579" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,9 +192,9 @@
         <mxCell id="h4rY_DyNIJXyqHzBzEI--60" value="" style="ellipse;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="1290" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h4rY_DyNIJXyqHzBzEI--61" value="" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=6;exitX=0.986;exitY=0.452;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="h4rY_DyNIJXyqHzBzEI--60" parent="1" source="h4rY_DyNIJXyqHzBzEI--33">
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--61" value="" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=6;dashed=1;dashPattern=8 8;" edge="1" target="h4rY_DyNIJXyqHzBzEI--60" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="473" y="1305" as="sourcePoint" />
+            <mxPoint x="460" y="1300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
