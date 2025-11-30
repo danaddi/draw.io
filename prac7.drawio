@@ -73,7 +73,7 @@
         <mxCell id="h4rY_DyNIJXyqHzBzEI--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=130;exitDy=55;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="h4rY_DyNIJXyqHzBzEI--2" target="h4rY_DyNIJXyqHzBzEI--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h4rY_DyNIJXyqHzBzEI--25" value="«application»&lt;br&gt;&lt;b&gt;приложение publishStudio&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="h4rY_DyNIJXyqHzBzEI--25" value="«application»&lt;br&gt;&lt;b&gt;приложение PublishStudio&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="870" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="h4rY_DyNIJXyqHzBzEI--26" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="h4rY_DyNIJXyqHzBzEI--25">
