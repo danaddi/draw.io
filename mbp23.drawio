@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-VqaZ6ydUkkJyGX2hPck-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Отбор вожатых в летний лагерь" vertex="1">
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Отобрать вожатых в летний лагерь" vertex="1">
           <mxGeometry height="80" width="80" x="370" y="310" as="geometry" />
         </mxCell>
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-5" edge="1" parent="1" source="-VqaZ6ydUkkJyGX2hPck-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
