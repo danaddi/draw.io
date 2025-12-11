@@ -7,11 +7,16 @@
         <mxCell id="I9yeDJD_LKNDMeHjJx0G-3" edge="1" parent="1" source="I9yeDJD_LKNDMeHjJx0G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I9yeDJD_LKNDMeHjJx0G-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4STlP7uGfr67EycZbS-2-2" connectable="0" parent="I9yeDJD_LKNDMeHjJx0G-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="акт приемки" vertex="1">
+          <mxGeometry relative="1" x="-0.2867" y="2" as="geometry">
+            <mxPoint x="11" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I9yeDJD_LKNDMeHjJx0G-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Постройка дома" vertex="1">
           <mxGeometry height="80" width="80" x="370" y="310" as="geometry" />
         </mxCell>
         <mxCell id="I9yeDJD_LKNDMeHjJx0G-2" parent="1" style="whiteSpace=wrap;html=1;" value="Заказчик" vertex="1">
-          <mxGeometry height="60" width="120" x="510" y="320" as="geometry" />
+          <mxGeometry height="60" width="120" x="560" y="320" as="geometry" />
         </mxCell>
         <mxCell id="I9yeDJD_LKNDMeHjJx0G-6" edge="1" parent="1" source="I9yeDJD_LKNDMeHjJx0G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I9yeDJD_LKNDMeHjJx0G-1">
           <mxGeometry relative="1" as="geometry">
