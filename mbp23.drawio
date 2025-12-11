@@ -7,14 +7,28 @@
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Отбор вожатых в летний лагерь" vertex="1">
           <mxGeometry height="80" width="80" x="370" y="310" as="geometry" />
         </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-5" edge="1" parent="1" source="-VqaZ6ydUkkJyGX2hPck-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-VqaZ6ydUkkJyGX2hPck-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-6" connectable="0" parent="-VqaZ6ydUkkJyGX2hPck-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Резюме и контактные данные&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.24" y="4" as="geometry">
+            <mxPoint x="7" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Кандидат" vertex="1">
-          <mxGeometry height="60" width="120" x="470" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="580" y="220" as="geometry" />
         </mxCell>
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HR" vertex="1">
           <mxGeometry height="60" width="120" x="230" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-7" edge="1" parent="1" source="-VqaZ6ydUkkJyGX2hPck-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-VqaZ6ydUkkJyGX2hPck-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Директор" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="340" as="geometry" />
+          <mxGeometry height="60" width="120" x="80" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font&gt;Заявка на потребность в вожатых, критерии отбора&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="210" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
