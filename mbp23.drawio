@@ -13,7 +13,7 @@
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HR" vertex="1">
           <mxGeometry height="60" width="120" x="230" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="-VqaZ6ydUkkJyGX2hPck-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Руководство лагеря" vertex="1">
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Директор" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="340" as="geometry" />
         </mxCell>
       </root>
