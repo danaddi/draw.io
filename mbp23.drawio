@@ -157,7 +157,16 @@
         </mxCell>
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-29" connectable="0" parent="-VqaZ6ydUkkJyGX2hPck-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Критерии отбора" vertex="1">
           <mxGeometry relative="1" x="-0.1703" as="geometry">
-            <mxPoint x="9" y="20" as="offset" />
+            <mxPoint x="-2" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.012;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="-VqaZ6ydUkkJyGX2hPck-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="748" />
+            </Array>
+            <mxPoint x="100" y="650" as="sourcePoint" />
+            <mxPoint x="125" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
