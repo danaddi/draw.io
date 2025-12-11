@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4">
   <diagram name="Страница-1" id="lezpmztVxe5tGKvL8Jmt">
-    <mxGraphModel dx="453" dy="291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1174" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,6 +103,31 @@
         </mxCell>
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Провести первичный отбор резюме" vertex="1">
           <mxGeometry height="95" width="95" x="120" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.115;entryY=0.215;entryDx=0;entryDy=0;entryPerimeter=0;" target="-VqaZ6ydUkkJyGX2hPck-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="600.2" />
+            </Array>
+            <mxPoint y="600.2" as="sourcePoint" />
+            <mxPoint x="121.2349999999999" y="600.0049999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-26" connectable="0" parent="-VqaZ6ydUkkJyGX2hPck-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Резюме и контактные&amp;nbsp;&lt;div&gt;данные&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1703" as="geometry">
+            <mxPoint x="6" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.055;entryY=0.73;entryDx=0;entryDy=0;entryPerimeter=0;" target="-VqaZ6ydUkkJyGX2hPck-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="650" as="sourcePoint" />
+            <mxPoint x="121" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-29" connectable="0" parent="-VqaZ6ydUkkJyGX2hPck-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Критерии отбора" vertex="1">
+          <mxGeometry relative="1" x="-0.1703" as="geometry">
+            <mxPoint x="9" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
