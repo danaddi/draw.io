@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-32" edge="1" parent="1" source="-VqaZ6ydUkkJyGX2hPck-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="730" as="targetPoint" />
+            <mxPoint x="810" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-VqaZ6ydUkkJyGX2hPck-33" connectable="0" parent="-VqaZ6ydUkkJyGX2hPck-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Результат отбора" vertex="1">
@@ -167,6 +167,15 @@
             </Array>
             <mxPoint x="100" y="650" as="sourcePoint" />
             <mxPoint x="125" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VqaZ6ydUkkJyGX2hPck-38" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="607" />
+            </Array>
+            <mxPoint x="210" y="607" as="sourcePoint" />
+            <mxPoint x="520" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
