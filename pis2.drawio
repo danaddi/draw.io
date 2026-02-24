@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Страница-1" id="9cbwZklotYk69PEzWydO">
-    <mxGraphModel dx="1303" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
         <mxCell id="QZxmmVqjGPHXB-2FS0pV-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Уч.управление" vertex="1">
           <mxGeometry height="60" width="30" x="447" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="QZxmmVqjGPHXB-2FS0pV-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+        <mxCell id="QZxmmVqjGPHXB-2FS0pV-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Гость" vertex="1">
           <mxGeometry height="60" width="30" x="447" y="560" as="geometry" />
         </mxCell>
         <mxCell id="nE6RS38adL9VwKAlj69W-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Управление личным кабинетом" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="nE6RS38adL9VwKAlj69W-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Экспорт данных" vertex="1">
           <mxGeometry height="80" width="120" x="547" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="nE6RS38adL9VwKAlj69W-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Управление личным кабинетом" vertex="1">
+        <mxCell id="nE6RS38adL9VwKAlj69W-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Просмотр ленты новостей" vertex="1">
           <mxGeometry height="80" width="120" x="537" y="520" as="geometry" />
         </mxCell>
         <mxCell id="nE6RS38adL9VwKAlj69W-43" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="nE6RS38adL9VwKAlj69W-42">
@@ -142,8 +142,17 @@
             <mxPoint x="545" y="568" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nE6RS38adL9VwKAlj69W-47" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Регистрация" vertex="1">
+          <mxGeometry height="80" width="120" x="537" y="620" as="geometry" />
+        </mxCell>
         <mxCell id="nE6RS38adL9VwKAlj69W-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Редактировать данные всех (контакты, группа)" vertex="1">
           <mxGeometry height="80" width="120" x="707" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="nE6RS38adL9VwKAlj69W-48" edge="1" parent="1" source="QZxmmVqjGPHXB-2FS0pV-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="nE6RS38adL9VwKAlj69W-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="590" as="sourcePoint" />
+            <mxPoint x="560" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nE6RS38adL9VwKAlj69W-45" edge="1" parent="1" source="nE6RS38adL9VwKAlj69W-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.93;entryY=0.27;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;dashed=1;">
           <mxGeometry relative="1" as="geometry">
